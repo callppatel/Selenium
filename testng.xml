@@ -2,7 +2,7 @@
 <suite name="TestNG Suite">
 	<test name = "TestNG Test Case">
 		<classes>
-			<class name ="testNGExamples.SouceLabTestExample" />
+			<class name ="testNGExamples.PeopleSoftProject" />
 		</classes>
 	</test>
 </suite>
